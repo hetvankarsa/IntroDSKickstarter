@@ -1,6 +1,6 @@
 # IntroDSKickstarter
 #Variables considered for features - Ioana 
-#'goal'
+#'goal' 
 #'staff_pick' - boolean value: 1 if staff picked the project / 0 if not
 #'blurb_length' - length of the project description as a counter of letters and whitespaces
 #'period_lc' - number of days between creation and launch of the project
